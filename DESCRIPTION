@@ -1,0 +1,21 @@
+Package: dsGeo
+Type: Package
+Title: DataSHIELD server side geospatial functions.
+Version: 0.1.0
+Date: 2020-04-01
+Authors@R: c(person("Tom", "Bishop", ,"trpb2@cantab.net", role = c("aut", "cre")))
+Description: DataSHIELD server side geospatial functions.
+Depends: R (>= 3.6.1),
+     resourcer,
+     tidyverse
+Imports:
+     sp,
+     rgdal,
+     rgeos
+License: MIT
+LazyData: true
+VignetteBuilder: knitr
+AggregateMethods:
+AssignMethods:
+RoxygenNote: 6.1.1
+Encoding: UTF-8
