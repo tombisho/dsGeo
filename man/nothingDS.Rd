@@ -4,13 +4,19 @@
 \alias{nothingDS}
 \title{Does nothing}
 \usage{
-nothingDS()
+nothingDS(x)
+}
+\arguments{
+\item{x}{a thing}
 }
 \value{
 a message
 }
 \description{
 This function does nothing
+}
+\details{
+it is still nothing
 }
 \author{
 Bishop, T.
