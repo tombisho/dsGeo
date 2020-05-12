@@ -20,6 +20,7 @@ AssignMethods:
     proj4stringDS,
     spTransformDS,
     overDS,
-    lapplyDS
+    lapplyDS,
+    geometryDS
 RoxygenNote: 6.1.1
 Encoding: UTF-8

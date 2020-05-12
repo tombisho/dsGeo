@@ -2,6 +2,7 @@
 
 export(gBufferDS)
 export(geoSummaryDS)
+export(geometryDS)
 export(lapplyDS)
 export(overDS)
 export(proj4stringDS)

@@ -18,6 +18,7 @@ lapplyDS <- function(input, fun = NULL){
   my.fun = as.name(fun)
 
   temp <- lapply(obj_x, FUN = my.fun)
-  return(temp)
+  unlisted = unlist(temp)
+  return(unlisted)
 
 }
