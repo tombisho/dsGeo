@@ -19,6 +19,7 @@ AssignMethods:
     gBufferDS,
     proj4stringDS,
     spTransformDS,
-    overDS
+    overDS,
+    lapplyDS
 RoxygenNote: 6.1.1
 Encoding: UTF-8
